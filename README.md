@@ -35,7 +35,7 @@ KPI, 퍼널, 리텐션 분석을 수행하고
 ---
 
 ## 사용 기술
-- Python (Pandas, Numpy)
+- Python (Pandas, Numpy, SciPy 등)
 - SQL
 - Jupyter Notebook
 - Tableau
